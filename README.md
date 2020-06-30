@@ -1,5 +1,5 @@
 # MicroRestapiNodesql
-micro rest api base build using nodejs and mysql database 
+micro rest api base build using nodejs expresjs and mysql database
 
 # table
 CREATE TABLE IF NOT EXISTS `person` (
